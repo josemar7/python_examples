@@ -1,2 +1,2 @@
 # python_examples
-3.5. SET COMPREHENSIONS
+CHAPTER 4. STRINGS
