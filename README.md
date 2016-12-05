@@ -1,2 +1,2 @@
 # python_examples
-CHAPTER 4. STRINGS
+4.6. STRINGS VS.BYTES
