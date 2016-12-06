@@ -38,3 +38,10 @@ print(a_string[3:-3])
 print(a_string[0:2])
 print(a_string[:18])
 print(a_string[18:])
+
+by = b'abcd\x65'
+print(by)
+print(type(by))
+a_string = '深入 Python'
+by = a_string.encode('utf-8')
+print(by)
