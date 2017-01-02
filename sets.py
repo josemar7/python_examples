@@ -44,3 +44,11 @@ print(a_set)
 print({x ** 2 for x in a_set})
 print({x for x in a_set if x % 2 == 0})
 print({2**x for x in range(10)})
+
+a_list = ['The', 'sixth', 'sick', "sheik's", 'sixth', "sheep's", 'sick']
+print(set(a_list))
+a_string = 'EAST IS EAST'
+print(set(a_string))
+words = ['SEND', 'MORE', 'MONEY']
+print(''.join(words))
+print(set(''.join(words)))
